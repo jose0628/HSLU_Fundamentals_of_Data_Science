@@ -1,4 +1,4 @@
-# GitHub Copilot Student Guide
+# GitHub & Copilot Student Access License Guide
 
 ## 1. Creating a GitHub Account
 
