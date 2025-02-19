@@ -18,12 +18,10 @@
 
 ---
 
-## 3. Enabling GitHub Copilot
+## 3. Validation of Having GitHub Copilot
 
 1. Go to [GitHub Copilot](https://github.com/features/copilot).
-2. Click "Start free trial" (should show as free if verified).
-3. Install the Copilot extension in your code editor.
-4. Sign in to GitHub from your editor and start coding.
+2. Click "Start free trial" (should show as free if verified or pro version if you are a student).
 
 ---
 
