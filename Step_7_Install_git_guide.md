@@ -52,26 +52,4 @@
    git --version
    ```
 
-### Method 2: Install Git via Winget (Windows Package Manager)
-1. Open **Command Prompt** or **PowerShell** as Administrator.
-2. Run:
-   ```sh
-   winget install --id Git.Git -e --source winget
-   ```
-3. Verify installation:
-   ```sh
-   git --version
-   ```
-
-## Setting Up Git After Installation
-1. Configure Git with your name and email:
-   ```sh
-   git config --global user.name "Your Name"
-   git config --global user.email "your-email@example.com"
-   ```
-2. Check your configuration:
-   ```sh
-   git config --list
-   ```
-
 Now Git is installed and ready to use on macOS or Windows! 🚀
