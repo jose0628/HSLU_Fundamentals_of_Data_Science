@@ -1,7 +1,8 @@
 # AI Platforms: Step-by-Step Account Creation Tutorial
 
-This tutorial will guide you through creating accounts (where available) on several AI platforms: **ChatGPT**, **Gemini**, **Claude**, **Perplexity**, and **DeepSeek**. Please note that some platforms may still be in private preview or beta testing, so availability may vary.
+This tutorial will guide you through creating accounts (where available) on several AI platforms: **ChatGPT**, **Gemini**, **Claude**, **Perplexity**, and **DeepSeek**. Please note that we require only the free version.
 
+Please create the account that will be mostly used with your team. (You do not need to get an account for every service)
 ---
 
 ## 1. Creating an Account on ChatGPT
@@ -57,28 +58,9 @@ ChatGPT is a product by [OpenAI](https://openai.com). You can use ChatGPT via [c
 
 ## 3. Creating an Account on Claude
 
-Claude is an AI assistant developed by [Anthropic](https://www.anthropic.com/). Access methods for Claude may vary:
-- **Anthropic’s Official Platform** (invite-only or waitlist)
-- **Third-party integrations**, like [Slack apps](https://slack.com/apps/A04EP7U8V7K-claude) or [Poe.com/Claude](https://poe.com/Claude)
+Claude is an AI assistant developed by [Anthropic](https://www.anthropic.com/). 
 
-### Steps (Poe.com method):
-
-1. **Go to Poe.com**  
-   - Visit [https://poe.com/Claude](https://poe.com/Claude).
-   - Poe is a platform by Quora that hosts various AI models, including Claude.
-
-2. **Sign up on Poe.com**  
-   - Click **Sign Up** (or **Log in** if you already have an account).
-   - You can sign up with **Google**, **Apple ID**, or an **email** and password.
-
-3. **Verify your email (if applicable)**  
-   - If you used an email, check your inbox and click the verification link.
-
-4. **Access Claude**  
-   - Once signed in, you can select **Claude** from the available AI bots on Poe.com.
-   - Start conversing with Claude in the chat interface.
-
-### Steps (Anthropic direct access - if available):
+### Steps (Anthropic direct access):
 
 1. **Visit Anthropic’s website**  
    - Go to [https://www.anthropic.com](https://www.anthropic.com).
