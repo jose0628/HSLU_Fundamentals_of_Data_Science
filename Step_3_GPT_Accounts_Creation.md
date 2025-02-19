@@ -36,10 +36,8 @@ ChatGPT is a product by [OpenAI](https://openai.com). You can use ChatGPT via [c
 
 ## 2. Creating an Account on Gemini
 
-> **Important Note**: As of this writing, “Gemini” (by Google) is rumored to be an upcoming AI model not yet released to the general public. If this is the service you mean, there is no public user interface to sign up for at the time of this tutorial.  
-> Alternatively, if you’re referring to another platform named “Gemini” (like the cryptocurrency exchange), follow the official site instructions. For completeness, we provide instructions for the **Google** Gemini AI waitlist (if/when available).  
 
-### Steps (When Available):
+### Steps:
 
 1. **Check if Gemini is publicly released**  
    - Monitor official Google announcements or the [Google AI blog](https://ai.google/) for release information.
@@ -98,8 +96,6 @@ Claude is an AI assistant developed by [Anthropic](https://www.anthropic.com/).
 ---
 
 ## 5. Creating an Account on DeepSeek
-
-> **Note**: “DeepSeek” may refer to various platforms or projects (some are experimental search engines, others may be different AI tools). If you mean a specific AI-based search or chat platform called “DeepSeek,” the steps might vary. Below is a generic approach.
 
 ### Potential Steps:
 
