@@ -1,2 +1,29 @@
-# HSLU_Fundamentals of Data Science
-It contains the guide for the pre-requisites for the module
+# HSLU Fundamentals of Data Science
+
+Welcome to the "HSLU Fundamentals of Data Science" repository. This repository provides a comprehensive guide to setting up the necessary tools and environments required for the Data Science module at the Lucerne University of Applied Sciences and Arts (HSLU). Authored by Jose Mancera, these step-by-step instructions ensure that students are well-prepared for the coursework.
+
+## Repository Structure
+
+The repository is organized into several markdown (`.md`) files, each focusing on a specific setup or installation process:
+
+- `README.md`: Overview of the repository and its contents.
+- `LICENSE`: Details about the repository's licensing.
+- `Step_1_GitHub_Copilot_Student_Guide.md`: Instructions for obtaining and setting up GitHub Copilot for students.
+- `Step_2_Intellij_Pro_License.md`: Guide to acquiring and activating the IntelliJ IDEA Professional license.
+- `Step_3_GPT_Accounts_Creation.md`: Steps to create accounts for GPT-based services.
+- `Step_4_Install_Anaconda.md`: Instructions for installing Anaconda, a distribution of Python and R for scientific computing.
+- `Step_5_PyCharm_Installation.md`: Guide to installing PyCharm, an integrated development environment for Python.
+- `Step_6_Install_R_RStudio_guide.md`: Steps to install R and RStudio for statistical computing and graphics.
+- `Step_7_Install_git_guide.md`: Instructions for installing Git, a version control system.
+
+## Getting Started
+
+To get started, follow the guides in the order presented above. Begin with setting up GitHub Copilot and proceed sequentially to ensure all tools and environments are correctly configured for the course.
+
+## Author
+
+Authored by Jose Mancera for the HSLU Data Science module.
+
+---
+
+For any issues or questions, please contact the Author
