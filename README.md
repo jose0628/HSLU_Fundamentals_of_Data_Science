@@ -16,13 +16,6 @@ Welcome to the "HSLU Fundamentals of Data Science" repository. This repository p
     </a>
 </div>
 
-<!-- Loom Video Embed (Will not work in GitHub markdown but will on GitHub Pages) -->
-<div style="position: relative; padding-bottom: 64.5933014354067%; height: 0;">
-  <iframe src="https://www.loom.com/embed/bbf5abc821bb428b8910f613925230b5?sid=2087c49b-4bfd-4371-b237-264eb67b8ef5" 
-  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
 
 
 ## Repository Structure
