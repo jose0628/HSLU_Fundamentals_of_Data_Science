@@ -1,7 +1,3 @@
----
-title: "Installing R and RStudio on macOS and Windows"
-date: "2025-02-19"
----
 
 # Installing R and RStudio on macOS and Windows
 
