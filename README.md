@@ -2,6 +2,12 @@
 
 Welcome to the "HSLU Fundamentals of Data Science" repository. This repository provides a comprehensive guide to setting up the necessary tools and environments required for the Data Science module at the Lucerne University of Applied Sciences and Arts (HSLU). Authored by Jose Mancera, these step-by-step instructions ensure that students are well-prepared for the coursework.
 
+### 🎥 Watch the Introduction Video  
+[![Watch the Video](https://cdn.loom.com/sessions/thumbnails/bbf5abc821bb428b8910f613925230b5-00001.gif)](https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5?sid=ac059932-cbe2-4665-850f-f9cc1e43094b)
+
+_Click the image above to watch the video on Loom._
+
+
 ## Repository Structure
 
 The repository is organized into several markdown (`.md`) files, each focusing on a specific setup or installation process:
