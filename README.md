@@ -4,7 +4,19 @@ Welcome to the "HSLU Fundamentals of Data Science" repository. This repository p
 
 
 ### 🎥 Watch the Introduction Video  
-<!-- Loom Video Embed -->
+
+
+<!-- Clickable GIF Thumbnail -->
+<div>
+    <a href="https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5">
+      <p>🎬 HSLU Fundamentals of Data Science Tutorials - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bbf5abc821bb428b8910f613925230b5-70973e79930e0591-full-play.gif">
+    </a>
+</div>
+
+<!-- Loom Video Embed (Will not work in GitHub markdown but will on GitHub Pages) -->
 <div style="position: relative; padding-bottom: 64.5933014354067%; height: 0;">
   <iframe src="https://www.loom.com/embed/bbf5abc821bb428b8910f613925230b5?sid=2087c49b-4bfd-4371-b237-264eb67b8ef5" 
   frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
