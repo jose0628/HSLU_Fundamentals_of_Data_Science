@@ -1,33 +1,43 @@
-# GitHub & Copilot Student Access License Guide
+# Step 1: GitHub Account and Copilot Student Access
 
-## 1. Creating a GitHub Account
+Applies to: Windows and macOS (browser-based flow)
 
-1. Go to [GitHub](https://github.com/).
-2. Click "Sign up" and enter your details.
-3. Verify your account via email.
-4. Select the free plan and complete registration.
+## Goal
+Create a GitHub account, verify student status, and confirm that GitHub Copilot is available at no cost through student benefits.
 
----
+## Official Links (validated on 2026-03-12)
+- GitHub: https://github.com/
+- GitHub Education Pack: https://education.github.com/pack
+- GitHub Copilot: https://github.com/features/copilot
 
-## 2. Verifying as a Student
+## A. Create a GitHub Account (skip if you already have one)
+1. Open https://github.com/ in your browser.
+2. Select **Sign up**.
+3. Use your HSLU email address if possible.
+4. Verify your email address from the message GitHub sends.
 
-1. Visit [GitHub Education](https://education.github.com/pack).
-2. Click "Get student benefits" and log in.
-3. Provide school email or upload proof of enrollment.
-4. Submit the request and wait for verification.
+Windows note: Edge or Chrome are recommended for smoother identity checks.
+macOS note: Safari, Chrome, and Firefox all work.
 
----
+## B. Apply for GitHub Student Benefits
+1. Open https://education.github.com/pack
+2. Select **Get student benefits** and sign in.
+3. Submit your student verification:
+   - Preferred: recognized school email domain.
+   - Alternative: proof of enrollment (student ID, enrollment confirmation, transcript).
+4. Wait for approval email from GitHub Education.
 
-## 3. Validation of Having GitHub Copilot
+## C. Confirm Copilot Access
+1. Open https://github.com/features/copilot while signed in.
+2. Check that your account shows a free/student-eligible Copilot option.
+3. If billing is shown unexpectedly, re-check your education approval status first.
 
-1. Go to [GitHub Copilot](https://github.com/features/copilot).
-2. Click "Start free trial" (should show as free if verified or pro version if you are a student).
+## D. Quick Verification Checklist
+- GitHub account is active.
+- Education verification is approved.
+- Copilot is available without paid checkout.
 
----
-
-## Troubleshooting & FAQs
-
-- If the student discount isn't applied, ensure verification is complete.
-- If the school email isn’t recognized, provide additional proof.
-- If asked for payment, ensure the subscription is marked as free.
-- Student benefits last one year and can be renewed if still eligible.
+## Troubleshooting
+- Approval pending for several days: re-open your GitHub Education request and confirm documents are readable.
+- School email not accepted: upload proof of enrollment instead.
+- Payment prompt appears: sign out/in and verify student status under your account benefits.

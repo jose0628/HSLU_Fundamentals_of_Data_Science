@@ -1,45 +1,41 @@
 # HSLU Fundamentals of Data Science
 
-Welcome to the "HSLU Fundamentals of Data Science" repository. This repository provides a comprehensive guide to setting up the necessary tools and environments required for the Data Science module at the Lucerne University of Applied Sciences and Arts (HSLU). Authored by Jose Mancera, these step-by-step instructions ensure that students are well-prepared for the coursework.
+This repository contains the setup guides used in the HSLU Fundamentals of Data Science module.
+The steps are ordered and should be followed from top to bottom.
 
+## Tutorial Video
 
-### 🎥 Watch the Introduction Video  
+Watch: https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5
 
+![HSLU Setup Tutorial Preview](https://cdn.loom.com/sessions/thumbnails/bbf5abc821bb428b8910f613925230b5-70973e79930e0591-full-play.gif)
 
-<!-- Clickable GIF Thumbnail -->
-<div>
-    <a href="https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5">
-      <p>🎬 HSLU Fundamentals of Data Science Tutorials - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bbf5abc821bb428b8910f613925230b5-70973e79930e0591-full-play.gif">
-    </a>
-</div>
+## Setup Sequence
 
+1. `Step_1_GitHub_Copilot_Student_Guide.md`  
+   Create your GitHub account, verify student status, and confirm Copilot access.
+2. `Step_2_GPT_Accounts_Creation.md`  
+   Create one AI platform account for your team.
+3. `Step_3_Install_R_RStudio_guide.md`  
+   Install R and RStudio on Windows/macOS.
+4. `Step_4_Install_git_guide.md`  
+   Install Git and configure your user identity.
+5. `Step_5_Install_Ollama_guide.md`  
+   Install Ollama and run a first local model.
+6. `Step_6_Install_Intellij_and_Request_Pro_License.md`  
+   Install IntelliJ IDEA Ultimate and request/activate the student pro license.
 
+## Notes
 
-## Repository Structure
+- The Anaconda installation guide was removed from this sequence.
+- External links in the guides were reviewed and updated on 2026-03-12.
+- Documentation now includes explicit Windows/macOS instructions where applicable.
 
-The repository is organized into several markdown (`.md`) files, each focusing on a specific setup or installation process:
+## Repository Files
 
-- `README.md`: Overview of the repository and its contents.
-- `LICENSE`: Details about the repository's licensing.
-- `Step_1_GitHub_Copilot_Student_Guide.md`: Instructions for obtaining and setting up GitHub Copilot for students.
-- `Step_2_Intellij_Pro_License.md`: Guide to acquiring and activating the IntelliJ IDEA Professional license.
-- `Step_3_GPT_Accounts_Creation.md`: Steps to create accounts for GPT-based services.
-- `Step_4_Install_Anaconda.md`: Instructions for installing Anaconda, a distribution of Python and R for scientific computing.
-- `Step_5_Install_R_RStudio_guide.md`: Steps to install R and RStudio for statistical computing and graphics.
-- `Step_6_Install_git_guide.md`: Instructions for installing Git, a version control system.
-- `Step_7_Install_Ollama_guide.md`: Instructions for installing Ollama.
-
-## Getting Started
-
-To get started, follow the guides in the order presented above. Begin with setting up GitHub Copilot and proceed sequentially to ensure all tools and environments are correctly configured for the course.
+- `README.md`: Repository overview and setup order.
+- `LICENSE`: Repository license.
+- Step guides listed above.
 
 ## Author
 
 Authored by Jose Mancera for the HSLU Data Science module.
-
----
-
-For any issues or questions, please contact the Author
