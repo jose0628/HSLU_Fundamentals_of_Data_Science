@@ -3,8 +3,6 @@
 ## Goal
 Install Ollama, verify the CLI works, and run your first local model.
 
-## Official Link (validated on 2026-03-12)
-- Ollama download page: https://ollama.com
 
 ## A. Install on Windows 10/11
 1. Open https://ollama.com and download the Windows installer (`.exe`).

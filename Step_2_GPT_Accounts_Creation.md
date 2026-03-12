@@ -5,14 +5,6 @@ Applies to: Windows and macOS (browser-based)
 ## Goal
 Create at least one AI account your team will use consistently during the course. You do not need an account on every platform.
 
-## Official Links (validated on 2026-03-12)
-- ChatGPT: https://chatgpt.com
-- Gemini: https://gemini.google.com
-- Claude: https://claude.ai
-- Perplexity: https://www.perplexity.ai/
-- DeepSeek: https://chat.deepseek.com
-- OpenAI support: https://help.openai.com/
-
 ## Recommended Choice Strategy
 1. Pick one primary platform for your team.
 2. Ensure all team members can log in successfully.

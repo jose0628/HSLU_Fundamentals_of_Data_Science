@@ -3,10 +3,6 @@
 ## Goal
 Install R first, then RStudio Desktop, and verify both are working.
 
-## Official Links (validated on 2026-03-12)
-- CRAN (R downloads): https://cran.r-project.org/
-- Posit RStudio Desktop downloads: https://posit.co/download/rstudio-desktop/
-
 ## A. Install R
 
 ### macOS

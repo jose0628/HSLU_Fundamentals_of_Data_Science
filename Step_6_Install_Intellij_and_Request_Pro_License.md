@@ -5,12 +5,6 @@ Applies to: Windows and macOS
 ## Goal
 Get a free JetBrains student license and activate IntelliJ IDEA Ultimate.
 
-## Official Links (validated on 2026-03-12)
-- JetBrains: https://www.jetbrains.com/
-- Student license page: https://www.jetbrains.com/community/education/#students
-- IntelliJ IDEA download: https://www.jetbrains.com/idea/download/
-- Student FAQ: https://www.jetbrains.com/community/education/#faq
-
 ## A. Check Eligibility
 1. Confirm you are an active HSLU student.
 2. Prepare one of the following:

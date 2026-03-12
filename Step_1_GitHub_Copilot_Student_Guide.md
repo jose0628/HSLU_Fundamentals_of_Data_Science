@@ -5,11 +5,6 @@ Applies to: Windows and macOS (browser-based flow)
 ## Goal
 Create a GitHub account, verify student status, and confirm that GitHub Copilot is available at no cost through student benefits.
 
-## Official Links (validated on 2026-03-12)
-- GitHub: https://github.com/
-- GitHub Education Pack: https://education.github.com/pack
-- GitHub Copilot: https://github.com/features/copilot
-
 ## A. Create a GitHub Account (skip if you already have one)
 1. Open https://github.com/ in your browser.
 2. Select **Sign up**.

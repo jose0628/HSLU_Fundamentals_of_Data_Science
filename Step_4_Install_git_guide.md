@@ -3,10 +3,6 @@
 ## Goal
 Install Git and apply basic configuration for coursework.
 
-## Official Links (validated on 2026-03-12)
-- Git downloads: https://git-scm.com/downloads
-- Git for Windows: https://gitforwindows.org/
-
 ## A. Install on macOS
 
 ### Option 1 (recommended): Xcode Command Line Tools
