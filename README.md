@@ -28,9 +28,9 @@ The repository is organized into several markdown (`.md`) files, each focusing o
 - `Step_2_Intellij_Pro_License.md`: Guide to acquiring and activating the IntelliJ IDEA Professional license.
 - `Step_3_GPT_Accounts_Creation.md`: Steps to create accounts for GPT-based services.
 - `Step_4_Install_Anaconda.md`: Instructions for installing Anaconda, a distribution of Python and R for scientific computing.
-- `Step_5_PyCharm_Installation.md`: Guide to installing PyCharm, an integrated development environment for Python.
-- `Step_6_Install_R_RStudio_guide.md`: Steps to install R and RStudio for statistical computing and graphics.
-- `Step_7_Install_git_guide.md`: Instructions for installing Git, a version control system.
+- `Step_5_Install_R_RStudio_guide.md`: Steps to install R and RStudio for statistical computing and graphics.
+- `Step_6_Install_git_guide.md`: Instructions for installing Git, a version control system.
+- `Step_7_Install_Ollama_guide.md`: Instructions for installing Ollama.
 
 ## Getting Started
 
