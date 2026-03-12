@@ -14,7 +14,7 @@ Watch: https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5
 1. `Step_1_GitHub_Copilot_Student_Guide.md`  
    Create your GitHub account, verify student status, and confirm Copilot access.
 2. `Step_2_GPT_Accounts_Creation.md`  
-   Create one AI platform account for your team.
+   Create one AI account for you.
 3. `Step_3_Install_R_RStudio_guide.md`  
    Install R and RStudio on Windows/macOS.
 4. `Step_4_Install_git_guide.md`  
@@ -38,4 +38,4 @@ Watch: https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5
 
 ## Author
 
-Authored by Jose Mancera for the HSLU Data Science module.
+Authored by José Mancera for the HSLU Data Science module.
