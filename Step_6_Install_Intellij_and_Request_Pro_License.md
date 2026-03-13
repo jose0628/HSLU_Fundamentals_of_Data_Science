@@ -41,6 +41,7 @@ Video: https://www.loom.com/share/b8f5e04a53314d29b8a6affe28fe14b7
 #### Tutorial Video Windows
 
 PART 1: https://www.loom.com/share/7c36b0a31f594ea5852f0fb161958e6d
+
 PART 2: https://www.loom.com/share/e288a974f6e6453d8cb051fc10fceef2
 
 
