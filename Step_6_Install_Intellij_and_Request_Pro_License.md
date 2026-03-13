@@ -31,9 +31,20 @@ Get a free JetBrains student license and activate IntelliJ IDEA Ultimate.
    - Windows: `.exe` installer.
    - macOS: `.dmg` installer (Apple Silicon or Intel as appropriate).
 3. Install and start IntelliJ IDEA.
-4. Sign in with your JetBrains account to activate the student license.
+4. Sign in with your JetBrains account to activate the student license.(If you have the aproval otherwise install the free 30-days trial)
 
-## E. Verification
+
+#### Tutorial Video MAC (Intel/Apple Silicon)
+
+Video: https://www.loom.com/share/b8f5e04a53314d29b8a6affe28fe14b7
+
+#### Tutorial Video Windows
+
+PART 1: https://www.loom.com/share/7c36b0a31f594ea5852f0fb161958e6d
+PART 2: https://www.loom.com/share/e288a974f6e6453d8cb051fc10fceef2
+
+
+## E. Verification (You will need to wait for the apploval of your student pack but it is not critical)
 1. In IntelliJ IDEA, open **Help -> Register** (or license status view).
 2. Confirm license type is student and expiration is visible.
 
