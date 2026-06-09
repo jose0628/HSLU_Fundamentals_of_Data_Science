@@ -1,4 +1,4 @@
-# Step 3: Install R and RStudio (Windows and macOS)
+# Step 2: Install R and RStudio (Windows and macOS)
 
 ## Goal
 Install R first, then RStudio Desktop, and verify both are working.

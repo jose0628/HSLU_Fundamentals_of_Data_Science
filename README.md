@@ -11,17 +11,15 @@ Watch: https://www.loom.com/share/bbf5abc821bb428b8910f613925230b5
 
 ## Setup Sequence
 
-1. `Step_1_GitHub_Copilot_Student_Guide.md`  
-   Create your GitHub account, verify student status, and confirm Copilot access.
-2. `Step_2_GPT_Accounts_Creation.md`  
+1. `Step_1_GPT_Accounts_Creation.md`  
    Create one AI account for you.
-3. `Step_3_Install_R_RStudio_guide.md`  
+2. `Step_2_Install_R_RStudio_guide.md`  
    Install R and RStudio on Windows/macOS.
-4. `Step_4_Install_git_guide.md`  
+3. `Step_3_Install_git_guide.md`  
    Install Git and configure your user identity.
-5. `Step_5_Install_Ollama_guide.md`  
+4. `Step_4_Install_Ollama_guide.md`  
    Install Ollama and run a first local model.
-6. `Step_6_Install_Intellij_and_Request_Pro_License.md`  
+5. `Step_5_Install_Intellij_and_Request_Pro_License.md`  
    Install IntelliJ IDEA Ultimate and request/activate the student pro license.
 
 ## Notes

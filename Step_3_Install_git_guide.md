@@ -1,4 +1,4 @@
-# Step 4: Install Git (Windows and macOS)
+# Step 3: Install Git (Windows and macOS)
 
 ## Goal
 Install Git and apply basic configuration for coursework.

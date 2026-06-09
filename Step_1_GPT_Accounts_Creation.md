@@ -1,4 +1,4 @@
-# Step 2: Create an AI Account for Team Work
+# Step 1: Create an AI Account for Team Work
 
 Applies to: Windows and macOS (browser-based)
 

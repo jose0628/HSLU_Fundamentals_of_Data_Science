@@ -1,4 +1,4 @@
-# Step 6: Install IntelliJ IDEA and Request Pro License
+# Step 5: Install IntelliJ IDEA and Request Pro License
 
 Applies to: Windows and macOS
 

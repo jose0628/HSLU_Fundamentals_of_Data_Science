@@ -1,4 +1,4 @@
-# Step 5: Install Ollama (Windows and macOS)
+# Step 4: Install Ollama (Windows and macOS)
 
 ## Goal
 Install Ollama, verify the CLI works, and run your first local model.
